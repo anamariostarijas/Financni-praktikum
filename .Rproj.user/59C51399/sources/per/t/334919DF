@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540536416175.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "334919DF",
+    "lastKnownWriteTime" : 31525476567547957,
+    "last_content_update" : 1540536416175,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "80fc496dc6ac47d2ac9818b57d481a1f",
+        "name" : "parametri",
+        "title" : "parametri"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540534383961.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E5B47655",
+    "lastKnownWriteTime" : 34058828670500911,
+    "last_content_update" : 1540534383961,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "9464F49A",
+        "caption" : "vzorec3",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=vzorec3&cache_key=9464F49A",
+        "displayedObservations" : 190,
+        "environment" : "",
+        "object" : "vzorec3",
+        "preview" : 0,
+        "totalObservations" : 190,
+        "variables" : 1
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

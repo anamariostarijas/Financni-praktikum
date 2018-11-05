@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540534343781.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4093849570",
+    "id" : "5EF6958",
+    "lastKnownWriteTime" : 1540540657,
+    "last_content_update" : 1540540657757,
+    "path" : "~/Financni-praktikum/Vaja2/Ostarijas_2.r",
+    "project_path" : "Vaja2/Ostarijas_2.r",
+    "properties" : {
+        "cursorPosition" : "44,5",
+        "scrollLine" : "17"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
