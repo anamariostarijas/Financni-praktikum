@@ -47,10 +47,15 @@ disc <- discretise(pexp(x, rate), from=0, to=n*h, step=h)
 
 # b) 
 
-g <- plot(stepfun(seq(0,24.9,by=h),diffinv(disc)), main = "Eksponentna porazdelitev",
-             ylab = "Porazdelitvena funkcija")
+g <- plot(stepfun(seq(0,24.9,by=h),diffinv(disc)), 
+          main = "Eksponentna porazdelitev",
+          ylab = "Porazdelitvena funkcija")
 curve(pexp(x,rate), add = TRUE, col = "red")
-legend("bottomright", legend=c('diskretizacija', 'Eksponentna porazdelitev'), col=c('black','red'),lty=1:1, cex=0.8)
+legend("bottomright", 
+       legend=c('diskretizacija', 'Eksponentna porazdelitev'), 
+       col=c('black','red'),
+       lty=1:1, 
+       cex=0.8)
 
 # c)
 
