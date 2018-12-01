@@ -8,7 +8,7 @@ library(readr)
 library(ggplot2)
 
 # uvoz podatkov, izbran vzorec3
-vzorec3 <- read_csv("Vaja2\\vzorec3.txt", col_names="odskodnina")
+vzorec3 <- read_csv("vzorec3.txt", col_names="odskodnina")
 
 #vzorčna porazdelitev individualnih škodnih zahtevkov
 histogram1 <- hist(vzorec3$odskodnina, 
